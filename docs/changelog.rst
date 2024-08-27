@@ -10,12 +10,15 @@ New flavors:
 
 New fields for existing flavors:
 
-- None
+- Added CIN Number field in Morocco flavor (`gh-705 <https://github.com/django/django-localflavor/pull/507>`_).
 
 Modifications to existing flavors:
 
 - Fix Belarus passport field description punctuation
   (`gh-484 <https://github.com/django/django-localflavor/pull/484>`_).
+- Change `Kiev` to `Kyiv` 🇺🇦 according to ISO_3166-2:UA
+- Accept French Postal Services identifiers in forms
+  (`gh-505 <https://github.com/django/django-localflavor/pull/505>`_).
 
 Other changes:
 

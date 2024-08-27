@@ -2,6 +2,7 @@ Authors
 =======
 
 * Aaron Boman
+* Abdellah El Youssfi Alaoui
 * Adam Taylor
 * Adnane Belmadiaf
 * Adonys Alea Boffill
@@ -32,6 +33,7 @@ Authors
 * Ben Konrath
 * Bruno M. Custódio
 * Burhan Khalid
+* Célia Prat
 * Claude Paroz
 * Daniel Ampuero
 * Daniela Ponader
@@ -42,6 +44,7 @@ Authors
 * Diederik van der Boor
 * d.merc
 * Dmitry Dygalo
+* Dmytro Litvinov
 * Dominick Rivard
 * Douglas Miranda
 * Elliott Fawcett
